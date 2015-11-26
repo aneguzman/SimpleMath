@@ -1,11 +1,8 @@
 {
-  "name": "simple_math",
-  "version": "1.0.0",
+  "name": "simple_math_aneguzman",
+  "version": "1.0.5",
   "description": "- **addition** Adds two numbers and returns the result.\r - **subtraction** Subtracts the second number from the first and returns the result.\r - **multiplication** Multiplies two numbers and returns the result.\r - **division** Divides the first number by the second number and returns the result.\r - **fibonacci** Applies the fibonacci sequence count times and returns the result.",
-  "main": "main.js",
-  "bin": {
-    "simple_math": "main.js"
-  },
+  "main": "bin/main.js",
   "scripts": {
     "test": "Simple math package"
   },
