@@ -1,0 +1,27 @@
+{
+  "name": "simple_math",
+  "version": "1.0.0",
+  "description": "- **addition** Adds two numbers and returns the result.\r - **subtraction** Subtracts the second number from the first and returns the result.\r - **multiplication** Multiplies two numbers and returns the result.\r - **division** Divides the first number by the second number and returns the result.\r - **fibonacci** Applies the fibonacci sequence count times and returns the result.",
+  "main": "main.js",
+  "bin": {
+    "simple_math": "main.js"
+  },
+  "scripts": {
+    "test": "Simple math package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneguzman/SimpleMath.git"
+  },
+  "keywords": [
+    "math",
+    "node",
+    "js"
+  ],
+  "author": "aneguzman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneguzman/SimpleMath/issues"
+  },
+  "homepage": "https://github.com/aneguzman/SimpleMath#readme"
+}
